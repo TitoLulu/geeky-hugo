@@ -1,43 +1,40 @@
 ---
-title: "About The Author"
-description: "this is meta-description"
-image: "images/author.png"
-layout: "about"
-draft: false
-
-# education
+title: About The Author
+description: this is meta-description
+image: images/author.png
+layout: about
 education:
   enable: true
-  title: "Formal Education"
+  title: Formal Education
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-
-# experience
+  - name: Udacity
+    content: 2021 • 2022 • Data Engineering Nanodegree (Data Modelling, Cloud Data
+      Warehouses, Data Lakes with Spark, Data Pipelines with Airflow)
+  - name: Southeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Northeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Easteast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Southeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
   enable: true
-  title: "Work Experience"
+  title: Work Experience
   experience_list:
-  - "Best Writer Award"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - Best Writer Award
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best Book
 
 ---
+As a data engineer with over four years of experience in the field, I have developed a wide range of skills and expertise in various technologies such as Python, AWS, Airflow, Scala, Spark, and Databricks. During my career, I had the opportunity to lead a team of Data Engineers that supported business operations across four countries, which allowed me to develop my leadership and collaboration skills. Additionally, I was the lead on a successful Data Migration/Sync project, managing over 4 TB of data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
-
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+  
+I am passionate about leveraging data to improve business outcomes, and I take pride in delivering solutions that are reliable, scalable, and efficient. Whether you are looking to build a data infrastructure from scratch, optimize your data pipelines, or implement cutting-edge data technologies, I am here to help you meet your data engineering needs. Don't hesitate to get in touch, and let's explore how we can work together to achieve your goals..
