@@ -7,6 +7,8 @@ education:
   enable: true
   title: Formal Education
   education_list:
+  - name: Ashesi University
+    content: 2014 • 2018 • BSc. Management Information Systems
   - name: Udacity
     content: 2021 • 2022 • Data Engineering Nanodegree (Data Modelling, Cloud Data
       Warehouses, Data Lakes with Spark, Data Pipelines with Airflow)
