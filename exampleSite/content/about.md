@@ -1,8 +1,8 @@
 ---
 title: About The Author
-description: this is meta-description
+# description: this is meta-description
 # image: images/author.png
-layout: about
+# layout: about
 education:
   enable: true
   title: Formal Education
